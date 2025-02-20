@@ -1,1 +1,1 @@
-# git_test
+# Finals Course Enrollment System
